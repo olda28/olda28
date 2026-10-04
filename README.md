@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-<!--
+I'm a programmer with a special interest for low-end languages and computer hardware.
+- 🔭 I’m currently working on [cryptopals](https://github.com/olda28/cryptopals-c)
+
+✨ Messages and work opportunities are always welcome. Feel free to send me a message or reach out via email or LinkedIn.
+- <!--
 **olda28/olda28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
