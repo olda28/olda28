@@ -2,7 +2,7 @@
 
 I'm a programmer with a special interest for low-end languages and computer hardware.
 - 🔭 I’m currently working on [cryptopals](https://github.com/olda28/cryptopals-c)
-- 📚 Also checking out the [Nand2Tetris](https://nand2tetris.org) project and writing my notes. Check it out, it's really interesting.
+- 📚 Also working through the [Nand2Tetris](https://nand2tetris.org) project and writing my notes. Check it out, it's really interesting!
 
 ✨ Messages and work opportunities are always welcome. Feel free to send me a message or reach out via email or LinkedIn.
 <!--
